@@ -41,9 +41,11 @@ I could define myself as an off-road person or full stack developer
 `Ruby and Rails`, `VueJS`, `DRUPAL`, `WORDPRESS`, `HTML`, `CSS`, `JS`, `AWS`, `TERRAFORM`,
 `Docker`, `WebPacked`, `MySQL` `PostgreSQL`
 
+
 #### January 2008 - January 2017  [KOTASOFT](https://www.kotasoft.com) 
 `SPRING BOOT`, `MAVEN`, `STRUTS`, `GWT`, `LARAVEL`, `CAKEPHP`, `HTML`, `CSS`, `JS`, `WORDPRESS`, `MySQL`
 <p> During this period I worked on various front and back projects </p>
+
 
 #### 2006 - 2007 -  EDUCATED
 Head of computer science department and institute professor and educator of PLAN FIP  
@@ -52,12 +54,13 @@ Head of computer science department and institute professor and educator of PLAN
 ## Languages
 * Spanish Native 
 * English B2 
-* Arabian swear words only
+
 
 ## Education
 
 * Computer Engineering Degree at the Universidad de Extremadura
 * Teaching Certified
+
 
 ## Other qualities.
 
@@ -68,5 +71,5 @@ I am a very outgoing person and a great team player. Worker and who likes to tak
 
 * Personal Twitter [@guldoe](https://twitter.com/guldoe)
 * Co Organizer [@wpextremadura](https://twitter.com/wpextremadura)
-* Co Organizer [@aceresjs](https://twitter.com/caceresjs)
+* Co Organizer [@caceresjs](https://twitter.com/caceresjs)
 * Co Organizer [@extredigitalday](https://twitter.com/extredigitalday)
