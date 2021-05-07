@@ -32,9 +32,6 @@ My experience includes very different profiles. I've been working on projects wi
 I could define myself as an off-road person or full stack developer
 
 
-<img  src="https://avatars.githubusercontent.com/guldoe?v=4&s=120">
-
-
 ## Experience 
 
 #### February 2021 - Present [PAACK](https://paack.co)
