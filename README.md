@@ -37,15 +37,19 @@ I could define myself as an off-road person or full stack developer
 
 ## Experience 
 
+#### February 2021 - Present [PAACK](https://paack.co)
+`Ruby and Rails`, `Kubernetes`, `Google Cloud`
+
+#### January 2021 - February 2021 [SNGULAR](https://sngular.com)
+`Ruby and Rails`, `AWS`, `Github Actions`
+
 #### January 2017 - Present  [ASPGEMS](https://www.aspgems.com) 
 `Ruby and Rails`, `VueJS`, `DRUPAL`, `WORDPRESS`, `HTML`, `CSS`, `JS`, `AWS`, `TERRAFORM`,
 `Docker`, `WebPacked`, `MySQL` `PostgreSQL`
 
-
 #### January 2008 - January 2017  [KOTASOFT](https://www.kotasoft.com) 
 `SPRING BOOT`, `MAVEN`, `STRUTS`, `GWT`, `LARAVEL`, `CAKEPHP`, `HTML`, `CSS`, `JS`, `WORDPRESS`, `MySQL`
 <p> During this period I worked on various front and back projects </p>
-
 
 #### 2006 - 2007 -  EDUCATED
 Head of computer science department and institute professor and educator of PLAN FIP  
