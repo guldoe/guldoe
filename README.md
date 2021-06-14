@@ -32,6 +32,9 @@ My experience includes very different profiles. I've been working on projects wi
 I could define myself as an off-road person or full stack developer
 
 
+<img  src="https://avatars.githubusercontent.com/guldoe?v=4&s=120">
+
+
 ## Experience 
 
 #### February 2021 - Present [PAACK](https://paack.co)
@@ -40,7 +43,7 @@ I could define myself as an off-road person or full stack developer
 #### January 2021 - February 2021 [SNGULAR](https://sngular.com)
 `Ruby and Rails`, `AWS`, `Github Actions`
 
-#### January 2017 - Present  [ASPGEMS](https://www.aspgems.com) 
+#### January 2017 - December 2020  [ASPGEMS](https://www.aspgems.com) 
 `Ruby and Rails`, `VueJS`, `DRUPAL`, `WORDPRESS`, `HTML`, `CSS`, `JS`, `AWS`, `TERRAFORM`,
 `Docker`, `WebPacked`, `MySQL` `PostgreSQL`
 
@@ -56,11 +59,19 @@ Head of computer science department and institute professor and educator of PLAN
 * Spanish Native 
 * English B2 
 
-
 ## Education
 
 * Computer Engineering Degree at the Universidad de Extremadura
 * Teaching Certified
+
+
+## Last Formation / Courses
+
+* Integrando Docker a su infraestructura y servicios. December 2020 - [UDEMY](https://www.udemy.com/course/integrando-docker-a-su-infraestrucutra-y-servicios)
+* Introduction to Serverless on Google Cloud -  Mayo 2021 - [CLOUD_GURU](https://acloudguru.com/)
+* Introduccion a GO -  Mayo 2021 - [CODELY.TV](https://pro.codely.tv/library/introduccion-a-go-tu-primera-app)
+* Arquitectura Hexagonal -  (Mayo Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/arquitectura-hexagonal/)
+* API HTTP en Go aplicando Arquitectura Hexagonal -  (Junio - Julio) 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
 
 
 ## Other qualities.
@@ -72,5 +83,7 @@ I am a very outgoing person and a great team player. Worker and who likes to tak
 
 * Personal Twitter [@guldoe](https://twitter.com/guldoe)
 * Co Organizer [@wpextremadura](https://twitter.com/wpextremadura)
-* Co Organizer [@caceresjs](https://twitter.com/caceresjs)
+* Co Organizer [@aceresjs](https://twitter.com/caceresjs)
 * Co Organizer [@extredigitalday](https://twitter.com/extredigitalday)
+
+
