@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 <a alt="SRE"><img src="https://img.shields.io/badge/CSS-10%20years-green.svg" /></a>
 <a alt="SRE"><img src="https://img.shields.io/badge/JS-10%20years-green.svg" /></a>
 <a alt="SRE"><img src="https://img.shields.io/badge/PHP-5%20years-green.svg" /></a>
-<a alt="SRE"><img src="https://img.shields.io/badge/RUBY-3%20years-green.svg" /></a>
+<a alt="SRE"><img src="https://img.shields.io/badge/RUBY-5%20years-green.svg" /></a>
+<a alt="SRE"><img src="https://img.shields.io/badge/GO-0%20years-green.svg" /></a>
 </p>
 
 ## Profile
