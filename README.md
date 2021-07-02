@@ -39,7 +39,7 @@ I could define myself as an off-road person or full stack developer
 ## Experience 
 
 #### February 2021 - Present [PAACK](https://paack.co)
-`Ruby and Rails`, `Kubernetes`, `Google Cloud`
+`Ruby and Rails`, `Kubernetes`, `Google Cloud`, `Go`
 
 #### January 2021 - February 2021 [SNGULAR](https://sngular.com)
 `Ruby and Rails`, `AWS`, `Github Actions`
@@ -72,7 +72,8 @@ Head of computer science department and institute professor and educator of PLAN
 * Introduction to Serverless on Google Cloud -  Mayo 2021 - [CLOUD_GURU](https://acloudguru.com/)
 * Introduccion a GO -  Mayo 2021 - [CODELY.TV](https://pro.codely.tv/library/introduccion-a-go-tu-primera-app)
 * Arquitectura Hexagonal -  (Mayo Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/arquitectura-hexagonal/)
-* API HTTP en Go aplicando Arquitectura Hexagonal -  (Junio - Julio) 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
+* Domain Driving Design- DDD Aplicado  -  Junio 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
+* API HTTP en Go aplicando Arquitectura Hexagonal -  Julio 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
 
 
 ## Other qualities.
