@@ -73,7 +73,7 @@ Head of computer science department and institute professor and educator of PLAN
 * Introduccion a GO -  Mayo 2021 - [CODELY.TV](https://pro.codely.tv/library/introduccion-a-go-tu-primera-app)
 * Arquitectura Hexagonal -  (Mayo Junio) 2021 - [CODELY.TV](https://pro.codely.tv/library/arquitectura-hexagonal/)
 * Domain Driving Design- DDD Aplicado  -  Junio 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
-* API HTTP en Go aplicando Arquitectura Hexagonal -  Julio 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
+* API HTTP en Go aplicando Arquitectura Hexagonal -  Julio 2021 - [CODELY.TV](https://pro.codely.tv/library/domain-driven-design-ddd/)
 
 
 ## Other qualities.
