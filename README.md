@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a alt="SRE"><img src="https://img.shields.io/badge/JS-10%20years-green.svg" /></a>
 <a alt="SRE"><img src="https://img.shields.io/badge/PHP-5%20years-green.svg" /></a>
 <a alt="SRE"><img src="https://img.shields.io/badge/RUBY-5%20years-green.svg" /></a>
-<a alt="SRE"><img src="https://img.shields.io/badge/GO-0%20years-green.svg" /></a>
+<a alt="SRE"><img src="https://img.shields.io/badge/GO-2%20months-green.svg" /></a>
 </p>
 
 ## Profile
@@ -73,7 +73,7 @@ Head of computer science department and institute professor and educator of PLAN
 * Domain Driving Design- DDD Aplicado  -  Junio 2021 - [CODELY.TV](https://pro.codely.tv/library/api-go-hexagonal)
 * API HTTP en Go aplicando Arquitectura Hexagonal -  Julio 2021 - [CODELY.TV](https://pro.codely.tv/library/domain-driven-design-ddd/)
 * Principios SOLID aplicados - (Julio - Agosto) 2021 - [CODELY.TV](https://pro.codely.tv/library/principios-solid-aplicados/)
-
+* CQRS: Command Query Responsibility Segregation Agosto 2021 - [CODELY.TV](https://pro.codely.tv/library/cqrs-command-query-responsibility-segregation-3719e4aa/)
 
 ## Other qualities.
 
