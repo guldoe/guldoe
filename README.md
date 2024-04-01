@@ -41,7 +41,7 @@ I could define myself as an off-road person or full stack developer
 #### February 2021 - Present [PAACK](https://paack.co)
 `Ruby and Rails`, `Kubernetes`, `Google Cloud`, `Go`
 
-#### January 2017 - December 2020  [ASPGEMS](https://www.aspgems.com) February 2021 [SNGULAR](https://sngular.com)
+#### January 2017 - February 2021  [ASPGEMS](https://www.aspgems.com) [SNGULAR](https://sngular.com)
 `Ruby and Rails`, `VueJS`, `DRUPAL`, `WORDPRESS`, `HTML`, `CSS`, `JS`, `AWS`, `TERRAFORM`, `Github Actions`
 
 `Docker`, `WebPacked`, `MySQL` `PostgreSQL`
